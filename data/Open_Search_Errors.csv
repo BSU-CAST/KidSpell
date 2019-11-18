@@ -1,0 +1,73 @@
+spelling,intention,clicked,suggestions,spellchecker,sid
+rodot,robot,robot,"['readout', 'radiate', 'reedit', 'robot', 'root']",SPLCHK,523
+prsan,person,person,"['person', 'prison', 'persona', 'porcine', 'personae']",SPLCHK,523
+cnput,computer,caput,"['caput', 'input', 'copout', 'kaput', 'cnet']",SPLCHK,523
+peroger,programmer,,"['proper', 'merger', 'perigee', 'roger', 'perkier']",SPLCHK,523
+caput,computer,,"['kept', 'capita', 'capote', 'caput', 'cowpat']",SPLCHK,523
+peroger,program,,"['proper', 'merger', 'perigee', 'roger', 'perkier']",SPLCHK,523
+perogeram,program,program,"['program', 'programme', 'reprogram', 'deprogram', 'programs']",SPLCHK,523
+caput,computer,,"['kept', 'capita', 'capote', 'caput', 'cowpat']",SPLCHK,523
+tghat,that,,"['tugboat', 'toughest', 'toughen', 'tougher', 'toughie']",SPLCHK,525
+revord,record,record,"['revered', 'reword', 'record', 'revoked', 'reverb']",SPLCHK,525
+programer,programmer,programmer,"['programmer', 'programmers', 'programmes', 'programmed', 'program']",SPLCHK,527
+scientace,scientist,,"['cents', 'saints', 'scents', 'sonatas', 'sonnets']",SPLCHK,527
+scientce,scientist,,"['cents', 'saints', 'scents', 'sonatas', 'sonnets']",SPLCHK,527
+scientac,scientist,,"['cyanotic', 'scientific', 'sciatic', 'scent', 'scenic']",SPLCHK,527
+scientact,scientist,scientist,"['scientist', 'contact', 'intact', 'scintillate', 'sentient']",SPLCHK,527
+tectnogly,technology,tactically,"['rectangle', 'tectonic', 'tectonics', 'tactically', 'tactical']",Aspell,534
+tetcnoglye,technology,,"['didactically', 'photogenically']",Aspell,534
+techology,technology,,"['technology', 'teleology', 'etiology', 'tetchily', 'topology']",Aspell,534
+faca,fact,fact,"['fake', 'fico', 'facia', 'fact', 'face']",SPLCHK,535
+abat,about,about,"['about', 'abbot', 'obit', 'abate', 'abet']",SPLCHK,535
+programer,programmer,programmer,"['programmer', 'programmers', 'programmes', 'programmed', 'program']",SPLCHK,544
+facks,facts,,"['focus', 'fakes', 'ficus', 'hacks', 'racks']",SPLCHK,544
+robat,robot,robot,"['rob at', 'rob-at', 'Robt', 'Rabat', 'robot']",Aspell,551
+evented,invented,even ted,"['even ted', 'even-ted', 'event ed', 'event-ed', 'eventide']",Aspell,551
+programer,programmer,program er,"['program er', 'program-er', 'programmer', 'program', 'programmers']",Aspell,552
+thefrst,the first,,"['theorist', 'defrost', 'reforest', 'Frost', 'frost']",Aspell,556
+frst,first,fr st,"['Frost', 'fr st', 'fr-st', 'frost', 'fest']",Aspell,556
+programmr,programmer,programmer,"['programmer', 'programmed', 'programmers', 'program', 'programs']",Aspell,556
+programer,programmer,programmer,"['programmer', 'programmers', 'programmes', 'programmed', 'program']",SPLCHK,559
+intristing,interesting,interesting,"['entrusting', 'interesting', 'untwisting', 'intruding', 'intestine']",Aspell,561
+programer,programmer,program er,"['program er', 'program-er', 'programmer', 'program', 'programmers']",Aspell,562
+scincetist,scientist,scientist,"['scientist', 'sincerest', 'snootiest', 'sunsets', 'sinusitis']",SPLCHK,567
+inven,invent,,"['uneven', 'invent', 'inferno', 'oven', 'inane']",Aspell,569
+refridgeorator,refrigerator,refrigerator,"['refrigerator', 'refrigerate', 'refrigerators', ""refrigerator's"", 'refrigerated']",Aspell,569
+remeber,remember,remember,"['remember', 'ember', 'remover', 'member', 'remoter']",Aspell,569
+evended,invented,,"['evened', 'amended', 'avenged', 'ended', 'evinced']",SPLCHK,570
+evendedrobots,invented robots,,[],SPLCHK,570
+theferst,the first,,"['thirst', 'theorist', 'first', 'freest', 'defrost']",SPLCHK,570
+ferst,first,,"['first', 'forest', 'frost', 'foresight', 'fairest']",SPLCHK,570
+ferstcopet,first computer,,[],SPLCHK,570
+copet,computer,,"['kept', 'capita', 'capote', 'caput', 'cowpat']",SPLCHK,570
+copeter,computer,computer,"['captor', 'copter', 'computer', 'counter', 'coulter']",SPLCHK,570
+ferst,first,first,"['first', 'forest', 'frost', 'foresight', 'fairest']",SPLCHK,570
+pergamer,programmer,programmer,"['perfumer', 'pregame', 'primer', 'programmer', 'premier']",SPLCHK,570
+progeramer,programmer,programmer,"['programmer', 'programmers', 'program', 'programme', 'programs']",SPLCHK,571
+macanical,mechanical,manacle,"['mechanical', 'conical', 'maniacal', 'manacle', 'monocle']",SPLCHK,573
+verchrl,virtual,,[],SPLCHK,573
+programer,programmer,programmer,"['program er', 'program-er', 'programmer', 'program', 'programmers']",Aspell,574
+ro,robot,,"['re', 'row', 'raw', 'rue', 'rye']",SPLCHK,575
+robi,robot,robe,"['rob', 'rub', 'rib', 'rabbi', 'robe']",SPLCHK,575
+robet,robot,robot,"['robot', 'rabbit', 'rebate', 'reboot', 'rebut']",SPLCHK,575
+wate,what,what,"['what', 'white', 'weight', 'wet', 'wait']",SPLCHK,575
+stude,study,suited,"['studio', 'stood', 'stayed', 'stud', 'suited']",SPLCHK,575
+boiesechools,boise schools,baseballs,"['schools', 'bisexuals', 'baseballs', 'bezels', 'bicycles']",SPLCHK,583
+hoomadrobots,who made robots,,[],SPLCHK,585
+hoo,who,,"['he', 'how', 'hi', 'hawaii', 'ha']",SPLCHK,585
+whos,who's,who's,"['was', 'ways', 'wise', ""who's"", 'whose']",SPLCHK,587
+programer,programmer,programmer,"['programmer', 'programmers', 'programmes', 'programmed', 'program']",SPLCHK,587
+madeb,made,,"['ma deb', 'ma-deb', 'made', 'Madden', 'madden']",Aspell,588
+frist,first,first,"['first', 'forest', 'frost', 'foresight', 'fairest']",SPLCHK,591
+compiny,company,company,"['company', 'comply', 'camping', 'accompany', 'compound']",SPLCHK,591
+frift,first,,"['forfeit', 'firefight', 'forefoot', 'rift', 'drift']",SPLCHK,591
+kug,kung,kung,"['cage', 'cog', 'keg', 'kung', 'jug']",SPLCHK,592
+gam,game,game,"['game', 'gamma', 'gym', 'gum', 'gem']",SPLCHK,592
+throgh,through,through,"['through', 'thorough', 'throe', 'throw', 'thigh']",Aspell,594
+rodos,robots,Rod's,"['roods', 'rodeos', 'rods', ""Rod's"", ""rod's""]",Aspell,598
+Rodo,robots,Rood,"['Rood', 'Rodeo', 'Rod', 'Rondo', 'Redo']",Aspell,598
+enistein,einstein,einstein,"['einstein', 'elastin', 'enlighten', 'einsteinium', 'unseen']",SPLCHK,599
+wut,what,wit,"['wit', 'Wu', 'wt', 'UT', 'wet']",Aspell,600
+stude,study,stud,"['stud', 'study', 'STD', 'std', 'steed']",Aspell,600
+robos,robots,robs,"['robs', ""Rob's"", 'robes', 'ribs', 'robots']",Aspell,600
+jus,juice,juice,"['jazz', 'juice', 'jaws', 'jays', 'jose']",SPLCHK,605

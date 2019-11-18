@@ -1,0 +1,79 @@
+spelling,intention,clicked,suggestions,spellchecker,sid
+famos,famous,famous,"['famous', 'fumes', 'femmes', 'foams', 'fames']",SPLCHK,418
+robo,robot,,"['rob', 'rub', 'rib', 'rabbi', 'robe']",SPLCHK,418
+programes,programmer,,"['programs', 'programmes', 'programmers', 'programmer', 'programmed']",SPLCHK,418
+programer,programmer,programmer,"['programmer', 'programmers', 'programmes', 'programmed', 'program']",SPLCHK,418
+scientitst,scientist,scientist,"['scientist', 'centrist', 'snootiest', 'statist', 'stoutest']",SPLCHK,418
+adolecence,adolescence,adolescence,"['adolescence', 'adolescences', 'adolescents', 'adolescent', 'idleness']",SPLCHK,418
+adollecence,adolescents,adolescents,"['adolescence', 'adolescences', 'adolescent', 'adolescents', 'idleness']",SPLCHK,418
+vidio,video,video,"['video', 'viewed', 'void', 'voodoo', 'vid']",SPLCHK,418
+upcomeing,upcoming,upcoming,"['upcoming', 'incoming', 'oncoming']",SPLCHK,418
+liweegees,Luigi's,,"['legs', 'logos', 'logs', 'leagues', 'lags']",SPLCHK,418
+mansiuon,mansion,mansion,"['monsoon', 'mansion', 'mason', 'mention', 'madison']",SPLCHK,418
+Luige's,Luigi's,,"['Legs', 'Logos', 'Logs', 'Leagues', 'Lags']",SPLCHK,418
+Luigie's,Luigi's,,"['Legs', 'Logos', 'Logs', 'Leagues', 'Lags']",SPLCHK,418
+vido,video,,"['video', 'viewed', 'void', 'voodoo', 'vid']",SPLCHK,418
+vid,video,,"['video', 'viewed', 'void', 'voodoo', 'vid']",SPLCHK,418
+vidio,video,video,"['video', 'viewed', 'void', 'voodoo', 'vid']",SPLCHK,418
+fam,famous,fame,"['fame', 'farm', 'foam', 'FM', 'Fm']",Aspell,419
+fameo,famous,,"['fame', 'Farmer', 'farmer', 'fume', 'famed']",Aspell,419
+desine,design,design,"['designed', 'design', 'destine', 'define', 'desire']",Aspell,419
+adventur,adventure,,"['adventure', 'Advent', 'advent', 'adventurer', 'Advents']",Aspell,419
+horrer,horror,,"['horror', 'harrier', 'hoarier', 'hearer', 'Herr']",Aspell,419
+desiner,designer,designer,"['designer', 'designed', 'definer', 'denier', 'design']",Aspell,419
+horrer,horror,horror,"['horror', 'harrier', 'hoarier', 'hearer', 'Herr']",Aspell,419
+horroer,horror,horror,"['horror', 'harrier', 'hoarier', 'horrors', 'harrow']",Aspell,419
+faks,facts,,"['focus', 'fakes', 'ficus', 'yaks', 'fads']",SPLCHK,421
+abaout,about,about,"['about', 'abbot', 'obit', 'abate', 'abet']",SPLCHK,421
+facs,facts,facts,"['focus', 'fakes', 'ficus', 'facts', 'faces']",SPLCHK,421
+waet,what,what,"['what', 'white', 'weight', 'wet', 'wait']",SPLCHK,427
+stude,study,,"['studio', 'stood', 'stayed', 'stud', 'suited']",SPLCHK,427
+uv,of,,"['eve', ""i've"", 'ova', 'avow', 'ave']",SPLCHK,427
+robbsoij,robots,robs,"['Robson', 'Robeson', 'robs', 'robotic', ""Rob's""]",Aspell,428
+interestinf,interesting,interesting,"['interest inf', 'interest-inf', 'interesting', 'interestingly', 'interest']",Aspell,431
+fcts,facts,facts,"['facts', 'fats', 'fits', 'Acts', 'acts']",Aspell,431
+abowt,about,about,"['abort', 'about', 'abbot', 'abet', 'Abbott']",Aspell,431
+wh,who,who,"['WHO', 'who', 'why', 'eh', 'W']",Aspell,431
+entr,enter,enter,"['en tr', 'en-tr', 'entry', 'enter', 'entire']",Aspell,431
+vidio,video,video,"['video', 'Vito', 'voodoo', 'void', 'VDU']",Aspell,431
+iterresting,intresting,interesting,"['interesting', 'arresting', 'attesting', 'trusting', 'attracting']",SPLCHK,434
+ubout,about,about,"['about', 'abbot', 'obit', 'abate', 'abet']",SPLCHK,434
+ferst,first,first,"['first', 'forest', 'frost', 'foresight', 'fairest']",SPLCHK,434
+cpuder,computer,,"['cruder', 'spider', 'colder', 'corder', 'coder']",SPLCHK,434
+cumpudr,computer,computer,"['cuspidor', 'computer', 'compounder', 'camped', 'camper']",SPLCHK,434
+prgramr,programmer,programmer,"['programmer', 'programs', 'program', 'programme', 'programmers']",SPLCHK,434
+ginn,guinea,,"['gone', 'gain', 'gun', 'gene', 'gonna']",Aspell,437
+lwebron,lebron,,"['lowering', 'Liberian', 'lowborn', 'lamebrain', 'Webern']",Aspell,440
+libron,lebron,,"['Liberian', 'fibrin', 'Libra', 'lowborn', 'Librium']",Aspell,440
+labron,lebron,,"['laboring', 'baron', 'Laban', 'barony', 'Barron']",Aspell,440
+jamse,james,,"['James', 'jams', ""jam's"", 'games', 'Jame']",Aspell,440
+coopon,coupon,coupon,"['coop on', 'coop-on', 'coupon', 'cooping', 'capon']",Aspell,440
+dont,don't,don't,"['dint', ""don't"", 'font', 'DOT', 'Don']",Aspell,440
+egsist,exist,exist,"['exist', 'egoist', 'egoists', 'easiest', 'egotist']",Aspell,440
+pisific,specific,specific,"['Pacific', 'pacific', 'specific', 'psychic', ""Pacific's""]",Aspell,440
+spicific,specific,specific,"['specific', 'specifics', 'Pacific', 'pacific', 'specif']",Aspell,440
+yare,year,,"['ya re', 'ya-re', 'Yaren', 'tare', 'are']",Aspell,440
+dg,dog,doggie,"['dog', 'dig', 'dug', 'diego', 'doggie']",SPLCHK,444
+stintist,scientist,scientist,"['stingiest', 'scientist', 'stints', 'statist', 'stunts']",SPLCHK,449
+inventi,invented,,"['invent', 'invents', 'inventive', 'invented', 'inventor']",SPLCHK,449
+inventid,invented,invented,"['invented', 'unvented', 'inventive', 'indented', 'inverted']",SPLCHK,449
+snc,snake,snake,"['sink', 'snake', 'snack', 'scenic', 'sonic']",SPLCHK,449
+gim,gym,gym,"['game', 'gamma', 'gym', 'gum', 'gem']",SPLCHK,451
+nasttek,gymnastics,,"['gnostic', 'nasties', 'nastier', 'nasty', 'nester']",SPLCHK,451
+nastteks,gymnastics,,"['nasties', 'nastiness', 'nestles', 'nesters', 'haystacks']",SPLCHK,451
+gymnasteks,gymnastics,gymnastics,"['gymnastics', 'gymnasts', 'gymnastic']",SPLCHK,451
+langu,language,Lang,"['Lang', 'LNG', 'languor', 'lanky', 'Long']",Aspell,459
+Languadge,language,Language,"['Language', 'Languages', ""Language's""]",Aspell,459
+snacke,snack,sink,"['sink', 'snake', 'snack', 'scenic', 'sonic']",SPLCHK,467
+cukee,cookie,coke,"['cook', 'cake', 'cookie', 'kick', 'coke']",SPLCHK,467
+pupee,puppy,pope,"['pop', 'pipe', 'papa', 'pope', 'pep']",SPLCHK,467
+famis,famous,famous,"['famous', 'farms', 'foams', 'FMs', 'famish']",Aspell,468
+abowt,about,about,"['abort', 'about', 'abbot', 'abet', 'Abbott']",Aspell,468
+octmis,Optimus,,"[""Oct's"", 'ictus', 'octets', 'victims', 'octanes']",Aspell,468
+optmis,Optimus,,"['optima', 'optimism', 'optimist', 'optimize', 'optics']",Aspell,468
+optmi,Optimus,,"['opt mi', 'opt-mi', 'optima', 'optic', 'opt']",Aspell,468
+hemeyoc,genetic,,"['hermetic', 'hemlock', 'Homeric', 'Hamitic', 'homesick']",Aspell,469
+somple,simple,simple,"['simple', 'sample', 'simpler', 'sampler', 'simply']",Aspell,469
+exsmstopm,explanation,,[],Aspell,469
+explstopm,explanation,,"['explicit', 'explicitly', 'explicitness', ""explicitness's""]",Aspell,469
+explanstopm,explanation,,[],Aspell,469
