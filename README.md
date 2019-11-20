@@ -6,14 +6,14 @@ Implementation of KidSpell, a child-oriented, rule-based, phonetic spellchecker 
 
 KidSpell.py contains the implementation of KidSpell, an example can be seen in example.py
 
-metaphone_suggestions(word, count) returns a list of suggestions, up to the amount specified by count
+suggestions(word, count) returns a list of suggestions, up to the amount specified by count
 ```
-    metaphone_suggestions('tuchdone', 5) #returns [touchdown, touchdowns, techno, tendon, trodden]
+    suggestions('tuchdone', 5) #returns [touchdown, touchdowns, techno, tendon, trodden]
 ```
 
 pkey(word) creates a phonetic key for a word
 ```
-    mphone('tuchdone') #returns 'T1DN'
+    pkey('tuchdone') #returns 'T1DN'
 ```
 
 ## Data
