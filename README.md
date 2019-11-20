@@ -27,7 +27,7 @@ The data folder contains several files:
     * Examples of spelling errors made by children in a hand-written essay-writing context
 
 * Closed_Search_Errors.csv
-    * Examples of spelling errors made by children in a closed web-search context
+    * Examples of spelling errors made by children in web searches (lab environment)
 
 * Open_Search_Errors.csv
-    * Examples of spelling errors made by children in an open web-search context
+    * Examples of spelling errors made by children in web searches (informal environment)
