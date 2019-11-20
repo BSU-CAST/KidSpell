@@ -1,6 +1,6 @@
 # KidSpell
 
-Implementation of KidSpell
+Implementation of KidSpell, a child-oriented, rule-based, phonetic spellchecker for correcting English spelling errors.
 
 ## Usage
 
@@ -21,7 +21,7 @@ pkey(word) creates a phonetic key for a word
 The data folder contains several files:
 
 * word_freq.csv, word_freq_clean.csv
-    * Dictionary to be used for KidSpell spelling suggestions, necessary for the spellchecker to run
+    * Dictionary to be used for KidSpell spelling suggestions, necessary for the spellchecker to run. Clean version contains no hate-based or sexually-explicit words
 
 * Essay_Writing_Errors.csv
     * Examples of spelling errors made by children in a hand-written essay-writing context
