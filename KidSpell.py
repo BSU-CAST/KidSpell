@@ -119,4 +119,4 @@ def getErrors(sentence):
     return [word for word in sentence.split() if word.upper() not in ks_vocab]
 
 def getSuggestionsForSentence(sentence, max=5):
-    return {word:suggestions(word) for word in sentence.split() if word.upper() not in ks_vocab}
+    return {word:suggestions(word, max) for word in sentence.split() if word.upper() not in ks_vocab}
