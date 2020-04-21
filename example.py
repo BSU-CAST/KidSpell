@@ -9,5 +9,5 @@ print(KidSpell.isInVocab('skul'))
 print(KidSpell.getErrors('the skul bus goes relly fast'))
 #['skul',relly']
 
-print(KidSpell.getSuggestionsForSetence('the skul bus goes relly fast'))
+print(KidSpell.getSuggestionsForSentence('the skul bus goes relly fast'))
 #{'skul': ['school', 'scale', 'cycle', 'skill', 'skull'], 'relly': ['really', 'relay', 'rely', 'rally', 'riley']}

@@ -118,5 +118,5 @@ def isInVocab(word):
 def getErrors(sentence):
     return [word for word in sentence.split() if word.upper() not in ks_vocab]
 
-def getSuggestionsForSetence(sentence, max=5):
+def getSuggestionsForSentence(sentence, max=5):
     return {word:suggestions(word) for word in sentence.split() if word.upper() not in ks_vocab}
