@@ -24,10 +24,10 @@ The data folder contains several files:
     * Dictionary to be used for KidSpell spelling suggestions, necessary for the spellchecker to run. Clean version contains no hate-based or sexually-explicit words
 
 * Essay_Writing_Errors.csv
-    * Examples of spelling errors made by children in a hand-written essay-writing context
+    * Spelling errors made by children in a hand-written essay-writing context
 
 * Web_Search_Lab_Errors.csv
-    * Examples of spelling errors made by children writing queries for web searches in a lab environment
+    * Spelling errors made by children writing queries for web searches in a lab environment
 
 * Web_Search_Informal_Errors.csv
-    * Examples of spelling errors made by children writing queries for web searches in a informal environment
+    * Spelling errors made by children writing queries for web searches in a informal environment
