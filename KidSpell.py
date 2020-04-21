@@ -7,7 +7,7 @@ import re
 word_freq = pd.read_csv('data/word_freq_clean.csv')
 word_freq = word_freq.sort_values(['score'], ascending=[False])
 word_freq.set_index('word', inplace=True, drop=False)
-
+ks_vocab = pd.Series(word_freq.score.values,index=word_freq.word).to_dict()
 
 #Phonetic rules
 rules = [
@@ -111,3 +111,12 @@ def suggestions(word, count=5):
 
     suggestions = [sug[0].upper() + sug[1:] if word[0].upper() == word[0] else sug for sug in list(dict.fromkeys(suggestions)) if len(sug) > 1]
     return suggestions[:count]
+
+def isInVocab(word):
+    return word.upper() in ks_vocab
+
+def getErrors(sentence):
+    return [word for word in sentence.split() if word.upper() not in ks_vocab]
+
+def getSuggestionsForSetence(sentence, max=5):
+    return {word:suggestions(word) for word in sentence.split() if word.upper() not in ks_vocab}
